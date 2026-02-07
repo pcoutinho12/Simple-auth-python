@@ -1,5 +1,10 @@
 # Python Simple Auth
 
+## ⚠️ Important Warn
+
+This is just a foundation, DO NOT use it for real projects before improving and adding lines of code,
+the code in question was made for studies and to be used as a basis to save time.
+
 Simple authentication system written in **Python**, using **SQLite** for data storage.
 
 The project includes:
